@@ -1,0 +1,10 @@
+桌面创建快捷方式
+
+源代码plane3.0.py
+
+一直提示缺少库文件的话下载个这个吧
+https://www.python.org/downloads/release/python-353/
+Windows x86 executable installer
+或者Windows x86-64 executable installer（for AMD64/EM64T/x64, not Itanium processors）
+
+别开360和电脑管家，这种收保护费和广告费的软件赶紧卸了吧
