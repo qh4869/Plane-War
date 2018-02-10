@@ -1,4 +1,4 @@
-# Plane-War
+# Plane War
 ## Environemnt
 + python3
 + pygame lib
